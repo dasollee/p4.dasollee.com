@@ -1,0 +1,18 @@
+[10-Dec-2013 01:20:40] PHP Fatal error:  Class 'Controller' not found in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/wow.php on line 2
+[10-Dec-2013 02:19:47] PHP Fatal error:  Call to undefined function  form_open() in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/wow.php on line 4
+[11-Dec-2013 00:36:05] PHP Fatal error:  Call to undefined method CI_Jquery::setJqDocumentReady() in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/wow.php on line 26
+[11-Dec-2013 01:21:27] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/user.php on line 22
+[11-Dec-2013 01:21:31] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/user.php on line 22
+[11-Dec-2013 02:45:46] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/journal.php on line 6
+[11-Dec-2013 02:46:28] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/journal.php on line 6
+[11-Dec-2013 02:46:59] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 23
+[11-Dec-2013 02:47:26] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 23
+[11-Dec-2013 02:49:21] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 23
+[11-Dec-2013 02:51:35] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 25
+[11-Dec-2013 02:51:53] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 11
+[11-Dec-2013 03:55:56] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 16
+[11-Dec-2013 03:57:18] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 16
+[11-Dec-2013 03:57:22] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 16
+[11-Dec-2013 03:59:22] PHP Fatal error:  Call to a member function journal_save() on a non-object in /home1/luvusinc/public_html/p4.dasollee.com/application/controllers/journal.php on line 8
+[17-Dec-2013 02:39:44] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting T_STRING or T_VARIABLE or '$' in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 8
+[17-Dec-2013 02:40:24] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting T_STRING or T_VARIABLE or '$' in /home1/luvusinc/public_html/p4.dasollee.com/application/models/journal_model.php on line 8

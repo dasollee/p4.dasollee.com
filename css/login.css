@@ -1,0 +1,11 @@
+legend {
+		font-size:24px;
+}
+body {
+	width:900px;
+	margin:0 auto;
+	margin-top:50px;
+}
+fieldset {
+	width:200px;
+}
