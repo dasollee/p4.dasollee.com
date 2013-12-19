@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>5 years journal</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css" />
+		<meta charset="utf-8">
 	</head>
 	<body>
 		<div>5 years journal</div>

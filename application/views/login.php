@@ -1,6 +1,9 @@
+<!DOCTYPE html>
 <html>
 	<head>
 	<link rel="stylesheet" type="text/css" href="/css/login.css" />
+	<meta charset="utf-8">
+	<title>Login</title>
 	</head>
 	<body>
 		<fieldset>
@@ -12,11 +15,12 @@
 		</form>
 		</fieldset>
 		<a href='/index.php/user/register'>register</a>
-	</body>
+	
 	<script type="text/javascript">
 	     document.getElementById("upw").onkeyup=function() {
 	      if(document.getElementById("upw").value.length>6) document.getElementById("sub").removeAttribute("disabled");
 	      else document.getElementById("sub").setAttribute("disabled","disabled");
 	      };
 	</script>
+	</body>
 </html>
