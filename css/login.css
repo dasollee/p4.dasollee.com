@@ -9,3 +9,8 @@ body {
 fieldset {
 	width:200px;
 }
+
+form { 
+    margin: 0 auto; 
+    width:250px;
+}   
